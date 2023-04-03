@@ -1,10 +1,10 @@
 """
 Integrantes
-- Pedro Augusto
-- Matheus Rosa
 - Eduardo dos Santos
 - Henrique Lorenzetti
 - Jorge Gabriel
+- Matheus Rosa
+- Pedro Augusto
 """
 
 import time

@@ -46,7 +46,7 @@ python3 index.py
 - [x] Solução
 
 ---
-- [] O usuário informa dados que não são número inteiros.
+- [ ] O usuário informa dados que não são número inteiros.
 
 - [x] Validação com o ```try except``` para validar a entrada do dado.
 
