@@ -29,7 +29,7 @@ A sequência recebeu esse nome em homenagem ao matemático italiano Leonardo Fib
 Para obter os arquivos digite o comando: 
 ```
 git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security
-cd house-music
+cd CP1---Coding-for-Security
 ```
 ### 3° Passo - Execute o comando Python
 ```
