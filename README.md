@@ -28,7 +28,7 @@ A sequência recebeu esse nome em homenagem ao matemático italiano Leonardo Fib
 ### 2° Passo - Instalação dos arquivos contidos no GitHub
 Para obter os arquivos digite o comando: 
 ```
-git clone https://github.com/felipe-mcunha/arquitetura-seguranca.git
+git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security
 cd house-music
 ```
 ### 3° Passo - Execute o comando Python
