@@ -56,7 +56,7 @@ python3 index.py
 
 - [ ] O usuário força qualquer tipo de entrada não permitida.
 
-- [x] O programa trata o erro e exibe uma mensagem para o usuário e volta o promt para digitação novamente.
+- [x] O programa trata o erro e exibe uma mensagem para o usuário e volta o prompt para digitação novamente.
 
 ### Evidência
 ![Imagem de molde](https://i.ibb.co/56fdLrC/img.png)
