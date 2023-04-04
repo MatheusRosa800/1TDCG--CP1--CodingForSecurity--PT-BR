@@ -1,7 +1,7 @@
 # FIAP - 1° Checkpoint - Conding for Security
 
 ## Introdução
-Checkpoint realizado com o intuito de colocar em práticas todos os conhecimentos em Python adquiridos na matéria de Conding for Security, ministrada pelo [Professor Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
+Checkpoint realizado com o intuito de colocar em prática todos os conhecimentos em Python adquiridos na matéria de Conding for Security, ministrada pelo [Professor Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
 
 ## Participantes
 - Eduardo dos Santos
@@ -11,10 +11,10 @@ Checkpoint realizado com o intuito de colocar em práticas todos os conhecimento
 - Pedro Augusto
 
 ## Desafio
-O desafio consiste em criar um programa que peça para o usuário informar a quantidade de números que ele deseja ver da Sequência de Fibonacci e exiba na tela.
+O desafio consiste em criar um programa que solicite ao usuário informar a quantidade de números que deseja ver da Sequência de Fibonacci, assim os exibindo na tela.
 
 ### O que é Sequência de Fibonacci?
-A sequência recebeu esse nome em homenagem ao matemático italiano Leonardo Fibonacci, que a descreveu pela primeira vez em seu livro Liber Abaci, publicado em 1202. A sequência de Fibonacci é encontrada em muitos fenômenos naturais, como na disposição das folhas nas plantas, nas conchas dos moluscos, no formato das galáxias e em muitas outras coisas. Além disso, a sequência de Fibonacci tem várias propriedades interessantes e é estudada em muitas áreas da matemática e da ciência da computação.
+A sequência recebeu esse nome em homenagem ao matemático italiano Leonardo Fibonacci, que a descreveu pela primeira vez em seu livro Liber Abaci, publicado em 1202. A sequência de Fibonacci é encontrada em muitos fenômenos naturais, como na disposição das folhas nas plantas, nas conchas dos moluscos, no formato das galáxias e em muitas outras coisas. Além disso, a sequência possui propriedades interessantes e é estudada em muitas áreas da matemática e da ciência da computação.
 
 ### Como ela funciona?
 É uma sequência numérica em que cada número é a soma dos dois números que o antecedem. Começando com 0 e 1, os primeiros números da sequência são 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, e assim por diante.
@@ -25,17 +25,17 @@ A sequência recebeu esse nome em homenagem ao matemático italiano Leonardo Fib
 
 ### 1° Passo - Abrir o terminal
 
-### 2° Passo - Instalação dos arquivos contidos no GitHub
+### 2° Passo - Obter o projeto do github
 Para obter os arquivos digite o comando: 
 ```
 git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security
 cd CP1---Coding-for-Security
 ```
-### 3° Passo - Execute o comando Python
+### 3° Passo - Execute o comando abaixo para abrir o programa Python
 ```
 python3 index.py
 ```
-### 4° Passo - Escreva a quantidade de número que deseja ver
+### 4° Passo - Escreva a quantidade de números que deseja ver
 ![Imagem do programa](https://i.ibb.co/H42b5Pf/img.png)
 
 ## Youtube
