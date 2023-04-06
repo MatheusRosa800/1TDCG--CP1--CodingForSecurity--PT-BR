@@ -39,7 +39,7 @@ python3 index.py
 ![Imagem do programa](https://i.ibb.co/H42b5Pf/img.png)
 
 ## Youtube
-[Link para o youtube](https://www.youtube.com/watch?v=WSloQqbnwzs&ab_channel=SweetGirl)
+[Link para o youtube](https://youtu.be/wFsU3rTPcH8)
 
 ## Implementações para tratativa de erros
 - [ ] Problema
