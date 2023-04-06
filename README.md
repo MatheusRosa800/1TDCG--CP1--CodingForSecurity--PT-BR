@@ -21,7 +21,7 @@ It is a numerical sequence which each number is the sum/addition of the two numb
 
 ![Sequência de finonacci](https://assets-global.website-files.com/60ff690cd7b0537edb99a29a/61323d9cc3bdd91d263cd3c5_Sequencia-de-Fibonacci-em-uma-aspiral.jpg)
 
-## step by step to execute the program
+## Step by step to execute the program
 
 ### 1° Step - Open the terminal
 
