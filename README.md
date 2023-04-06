@@ -1,4 +1,7 @@
-# FIAP - 1° Checkpoint - Conding for Security
+# FIAP - 1° Checkpoint - Conding for Security - DataShield
+
+## Repositório em EN-US
+[Link para o GitHub](https://github.com/MatheusRosa800/CP1---CodingForSecurity---EN-US)
 
 ## Introdução
 Checkpoint realizado com o intuito de colocar em prática todos os conhecimentos em Python adquiridos na matéria de Conding for Security, ministrada pelo [Professor Fábio Cabrini](https://www.linkedin.com/in/fabio-cabrini/).
@@ -28,8 +31,8 @@ A sequência recebeu esse nome em homenagem ao matemático italiano Leonardo Fib
 ### 2° Passo - Obter o projeto do github
 Para obter os arquivos digite o comando: 
 ```
-git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security
-cd CP1---Coding-for-Security
+git clone https://github.com/MatheusRosa800/CP1---Coding-for-Security---PT-BR.git
+cd CP1---Coding-for-Security---PT-BR
 ```
 ### 3° Passo - Execute o comando abaixo para abrir o programa Python
 ```
@@ -39,7 +42,7 @@ python3 index.py
 ![Imagem do programa](https://i.ibb.co/H42b5Pf/img.png)
 
 ## Youtube
-[Link para o youtube](https://youtu.be/wFsU3rTPcH8)
+[Link para o youtube](https://www.youtube.com/watch?v=wFsU3rTPcH8&ab_channel=PedroAugusto)
 
 ## Implementações para tratativa de erros
 - [ ] Problema
